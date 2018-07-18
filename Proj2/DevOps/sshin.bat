@@ -1,1 +1,0 @@
-ssh -i proj2_keypair.pem ec2-user@18.204.222.0
